@@ -69,17 +69,18 @@ function App() {
 
 
 
-
+    document.getElementById((picRef.current-1)%5).classList.add('z-50')
     document.getElementById((picRef.current-1)%5).classList.remove('scale-0')
     document.getElementById((picRef.current-1)%5).classList.add('translate-x-[-150%]')
     document.getElementById((picRef.current-1)%5).classList.remove('translate-x-[-250%]')
     document.getElementById((picRef.current-1)%5).classList.remove('translate-x-[-50%]')
+    document.getElementById((picRef.current-1)%5).classList.remove('translate-x-[50%]')
 
-
-    document.getElementById((picRef.current-4)%5).classList.remove('scale-0')
-    document.getElementById((picRef.current-4)%5).classList.add('translate-x-[50%]')
-    document.getElementById((picRef.current-4)%5).classList.remove('translate-x-[-50%]')
-    document.getElementById((picRef.current-4)%5).classList.remove('translate-x-[-150%]')
+    document.getElementById((picRef.current+1)%5).classList.add('z-50')
+    document.getElementById((picRef.current+1)%5).classList.remove('scale-0')
+    document.getElementById((picRef.current+1)%5).classList.add('translate-x-[50%]')
+    document.getElementById((picRef.current+1)%5).classList.remove('translate-x-[-50%]')
+    document.getElementById((picRef.current+1)%5).classList.remove('translate-x-[-150%]')
  }
  useEffect(handleClick,[])
   
