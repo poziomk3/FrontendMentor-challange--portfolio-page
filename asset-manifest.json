@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FrontendMentorChallangePortfolioPage.io/static/css/main.4865d7bb.css",
-    "main.js": "/FrontendMentorChallangePortfolioPage.io/static/js/main.b76d41e7.js",
+    "main.js": "/FrontendMentorChallangePortfolioPage.io/static/js/main.90db0a5e.js",
     "static/media/image-amy.webp": "/FrontendMentorChallangePortfolioPage.io/static/media/image-amy.7da98e7720cf2d1467d1.webp",
     "static/media/image-slide-3.jpg": "/FrontendMentorChallangePortfolioPage.io/static/media/image-slide-3.98a0b68a0c22e4f588e2.jpg",
     "static/media/image-slide-1.jpg": "/FrontendMentorChallangePortfolioPage.io/static/media/image-slide-1.8fe92b077c926e6273db.jpg",
@@ -19,10 +19,10 @@
     "static/media/icon-arrow-right.svg": "/FrontendMentorChallangePortfolioPage.io/static/media/icon-arrow-right.dc94be1ff3d2abe01d83af8d931d31aa.svg",
     "static/media/icon-arrow-left.svg": "/FrontendMentorChallangePortfolioPage.io/static/media/icon-arrow-left.4dc941849919da80482b072e26ed445b.svg",
     "main.4865d7bb.css.map": "/FrontendMentorChallangePortfolioPage.io/static/css/main.4865d7bb.css.map",
-    "main.b76d41e7.js.map": "/FrontendMentorChallangePortfolioPage.io/static/js/main.b76d41e7.js.map"
+    "main.90db0a5e.js.map": "/FrontendMentorChallangePortfolioPage.io/static/js/main.90db0a5e.js.map"
   },
   "entrypoints": [
     "static/css/main.4865d7bb.css",
-    "static/js/main.b76d41e7.js"
+    "static/js/main.90db0a5e.js"
   ]
 }
